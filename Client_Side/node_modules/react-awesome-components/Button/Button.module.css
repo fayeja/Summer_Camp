@@ -1,0 +1,15 @@
+.bouton-default{
+    color: white;
+    background-color: #B1C1C0;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.bouton-primaire{
+    color: black;
+    background-color: #C6C013;
+    width: 75px;
+    min-height: 25px;
+    border-radius: 3px;
+    font-weight: 700;
+}
